@@ -1,0 +1,14 @@
+{
+    "vsphere-server": "vcenter.example.com",
+    "vsphere-user": "administrator@vsphere.local",
+    "vsphere-password": "vmware",
+    "vsphere-datacenter": "datacenter",
+    "vsphere-cluster": "cluster",
+    "vsphere-network": "VM Network",
+    "vsphere-datastore": "datastore",
+    "vm-name": "centos7",
+    "vm-cpu-num": "1",
+    "vm-mem-size": "1024",
+    "vm-disk-size": "5000",
+    "iso_url": "[datastore] /isos/CentOS-7-x86_64-Minimal-2003.iso"
+}
